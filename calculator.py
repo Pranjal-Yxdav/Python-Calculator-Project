@@ -4,12 +4,15 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+#Pranjal
 def addition(a, b):
     return a + b
 
 def subtraction(a, b):
     return a - b
 
+#Nitin
 def multiplication(a, b):
     return a * b
 
@@ -18,7 +21,7 @@ def division(a, b):
         return "Cannot divide by zero"
     return a / b
 
-
+#Krishna
 def power(a, b):
     return a ** b
 
