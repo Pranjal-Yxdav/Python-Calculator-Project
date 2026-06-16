@@ -29,7 +29,7 @@ def power(a, b):
 def modulus(a, b):
     return a % b
 
-
+#Pratichi
 def floor_division(a, b):
     if b == 0:
         return "Cannot divide by zero"
