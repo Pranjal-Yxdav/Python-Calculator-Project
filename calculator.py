@@ -4,5 +4,8 @@ def main():
 if __name__ == "__main__":
     main()
 
+def addition(a, b):
+    return a + b
+
 def subtraction(a, b):
     return a - b
